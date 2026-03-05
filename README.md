@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <b>🛡 Панель администратора</b><br>
-      <img src="<img width="1920" height="1440" alt="107shots_so" src="https://github.com/user-attachments/assets/8669fed4-06d8-44e5-b699-8ba2579b0b45" />" width="350"/>
+      <img src="https://github.com/user-attachments/assets/8669fed4-06d8-44e5-b699-8ba2579b0b45" />" width="350"/>
     </td>
     <td align="center">
       <b>🚀 Процесс записи</b><br>
