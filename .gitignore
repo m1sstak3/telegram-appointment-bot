@@ -63,3 +63,7 @@ bot/data/*.sqlite
 .pytest_cache/
 .coverage
 htmlcov/
+
+# AI Agents / LLM Workspace
+.agents/
+skills-lock.json
