@@ -81,3 +81,38 @@
 git clone [https://github.com/m1sstak3/tg-appointment-bot.git](https://github.com/m1sstak3/tg-appointment-bot.git)
 cd tg-appointment-bot
 cp bot/.env.example bot/.env
+```
+*Укажите в `.env` ваш `BOT_TOKEN` (от @BotFather) и `ADMIN_IDS` (ваш Telegram ID).*
+
+### 2. Запуск через Docker (Рекомендуется для Production)
+```bash
+docker-compose up -d --build
+```
+> 💡 Бот и база данных инициализируются автоматически. При первом запуске скрипт `init_db.py` создаст демо-специалистов и расписание, чтобы вы могли сразу протестировать функционал.
+
+### 3. Локальный запуск (Для разработки)
+<details>
+<summary><b>Показать инструкции для локального запуска</b></summary>
+<br>
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Для Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+
+cd bot
+# Применение миграций Alembic
+alembic upgrade head
+
+# Инициализация демо-данных (опционально)
+python init_db.py
+
+# Запуск бота
+python bot.py
+```
+</details>
+
+---
+
+## 🔄 Масштабирование
+Архитектура заложена "на вырост". Для перехода на Highload достаточно заменить `DATABASE_URL` на PostgreSQL (через драйвер `asyncpg`) и вынести `APScheduler` в отдельный процесс с Redis/Celery.
