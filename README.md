@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/151B23/FFFFFF?text=Telegram+Clinic+Bot+Banner" alt="Project Banner" width="100%">
-
   <h1>🏥 Telegram-Бот: Онлайн-запись к врачу</h1>
   <p><b>Профессиональное решение для автоматизации записи пациентов, умные напоминания и панель администратора.</b></p>
 
@@ -16,8 +14,29 @@
 ---
 
 ## 📱 Демонстрация интерфейса
-> **Заметка для тебя:** Запиши короткую GIF (до 5 МБ) с процессом записи к врачу и сделай скриншот панели администратора. Раскомментируй код ниже и вставь свои ссылки. Это критически важно для продажи проекта!
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>📅 Выбор даты</b><br>
+      <img src="<img width="1920" height="1440" alt="514shots_so" src="https://github.com/user-attachments/assets/0694d777-4ce8-40f2-a5dd-618cd00aadb6" />" width="350"/>
+    </td>
+    <td align="center">
+      <b>⏰ Выбор времени</b><br>
+      <img src="<img width="1920" height="1440" alt="557shots_so" src="https://github.com/user-attachments/assets/14012a54-f5bb-4690-8ea6-6e5d4abb2b9e" />" width="350"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🛡 Панель администратора</b><br>
+      <img src="<img width="1920" height="1440" alt="107shots_so" src="https://github.com/user-attachments/assets/45a75d50-b7a7-4caa-adb2-720a4695c0ad" />" width="350"/>
+    </td>
+    <td align="center">
+      <b>🚀 Процесс записи</b><br>
+      <img src=https://github.com/user-attachments/assets/3e776d78-d306-4774-b710-87e8bb35b035"" width="350" autoplay loop muted playsinline></video>
+    </td>
+  </tr>
+</table>
 ---
 
 ## ✨ Основной функционал
