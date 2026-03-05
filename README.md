@@ -19,21 +19,21 @@
   <tr>
     <td align="center">
       <b>📅 Выбор даты</b><br>
-      <img src="<img width="1920" height="1440" alt="514shots_so" src="https://github.com/user-attachments/assets/0694d777-4ce8-40f2-a5dd-618cd00aadb6" />" width="350"/>
+      <img src="https://github.com/user-attachments/assets/d16a011c-5c5f-4ae2-a1fd-9dd2d2463d23" />" width="350"/>
     </td>
     <td align="center">
       <b>⏰ Выбор времени</b><br>
-      <img src="<img width="1920" height="1440" alt="557shots_so" src="https://github.com/user-attachments/assets/14012a54-f5bb-4690-8ea6-6e5d4abb2b9e" />" width="350"/>
+      <img src="https://github.com/user-attachments/assets/a8afecdf-8800-4c7c-a57e-447f29d90a3e" />" width="350"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>🛡 Панель администратора</b><br>
-      <img src="<img width="1920" height="1440" alt="107shots_so" src="https://github.com/user-attachments/assets/45a75d50-b7a7-4caa-adb2-720a4695c0ad" />" width="350"/>
+      <img src="<img width="1920" height="1440" alt="107shots_so" src="https://github.com/user-attachments/assets/8669fed4-06d8-44e5-b699-8ba2579b0b45" />" width="350"/>
     </td>
     <td align="center">
       <b>🚀 Процесс записи</b><br>
-      <img src=https://github.com/user-attachments/assets/3e776d78-d306-4774-b710-87e8bb35b035"" width="350" autoplay loop muted playsinline></video>
+      <img src="https://github.com/user-attachments/assets/e7fb5897-ebaf-4911-b7a3-b5defb34dada" width="350" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
